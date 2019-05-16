@@ -1,0 +1,7 @@
+{
+  "telegramId": "469417604:AAGjGcpV-m6ZkpSajdKSox_OVglVavD73mM",
+  "emailAddress": "allposts.vitali@gmail.com",
+  "credentialsFilePath": "/client_secret.json",
+  "splitSize": 5000000,
+  "timeCycleForSendArcInMinutes": 10
+}
